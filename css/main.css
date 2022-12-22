@@ -10,6 +10,8 @@ body {
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
   }
+
+  
   
   .icon-bar a {
     display: block;
@@ -54,6 +56,11 @@ body {
     color: white;
   }
   
+  .location {
+    background: #3B5998;
+    color: white;
+  }
+
   .content {
     margin-left: 75px;
     font-size: 30px;
